@@ -66,11 +66,11 @@ flutter:
     - images/ready_assets/car_logo.png
   # Home Screen assets
     - images/home_assets/default_avatar.jpg
-    # - images/home_assets/ford_mustang.glb
-    # - images/home_assets/mercedes-benz_maybach_2022.glb
-    # - images/home_assets/toyota_fortuner_2021.glb
-    # - images/home_assets/hyundai_creta.glb
-    # - images/home_assets/volkswagen_virtus.glb
+    - images/home_assets/ford_mustang.glb
+    - images/home_assets/mercedes-benz_maybach_2022.glb
+    - images/home_assets/toyota_fortuner_2021.glb
+    - images/home_assets/hyundai_creta.glb
+    - images/home_assets/volkswagen_virtus.glb
     - images/home_assets/benz.png
     - images/home_assets/audi.png
     - images/home_assets/jaguar.png
